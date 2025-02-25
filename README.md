@@ -64,7 +64,7 @@ Disfruta de las ventajas de unirte a la Rookies League
 
 • **Trabajar aquí compensa_** Saca más partido a tu nómina con el Programa de Retribución Flexible y aprovéchate de unirte a un grupo bancario.
 
-Ahora ya conoceis más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOCKIES LEAGUE y dejar tu huella digital?
+Ahora ya conoceis más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOKIES LEAGUE y dejar tu huella digital?
 
 Pincha en el siguiente link: https://bit.ly/RookiesLeague2025 y hagamos MATCH.
 
