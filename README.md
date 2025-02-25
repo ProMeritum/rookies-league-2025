@@ -1,4 +1,4 @@
-# 👾 ¡Forma parte de la Rookie's League! 👾
+# 👾 ¡Forma parte de la Rookies League! 👾
 ### El programa de jóvenes talentos de CaixaBank Tech que no te puedes perder. 
 
 > El juego ha empezado. Queremos que nos conozcas en profundidad, que estudies lo que hacemos y des un Level-Up a tu futuro formando parte del programa Rookie's League de CaixaBank Tech.
@@ -67,3 +67,6 @@ Disfruta de las ventajas de unirte a la Rookies League
 Ahora ya conoceis más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOCKIES LEAGUE y dejar tu huella digital?
 
 Pincha en el siguiente link: https://bit.ly/RookiesLeague2025 y hagamos MATCH.
+
+
+-
