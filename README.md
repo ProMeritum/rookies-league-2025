@@ -10,7 +10,7 @@ En CaixaBank Tech estamos cambiando el mundo, somos uno de los mayores motores d
 Desarrollamos soluciones financieras end-to-end con un claro objetivo: reinventar las reglas de juego a nivel tecnológico de una forma inteligente, flexible y con un impacto real en la sociedad.
 
 _<p align="center">
-[![¡Ve el vídeo!](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/DtMSYtebYMw])
+[![¡Ve el vídeo!](https://img.youtube.com/vi/DtMSYtebYMw/hqdefault.jpg)](https://youtu.be/DtMSYtebYMw)]
 
 _<p align="center">
 __¡Haz clic en la imagen para ver el vídeo!__
