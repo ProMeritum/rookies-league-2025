@@ -10,7 +10,7 @@ En CaixaBank Tech estamos cambiando el mundo, somos uno de los mayores motores d
 Desarrollamos soluciones financieras end-to-end con un claro objetivo: reinventar las reglas de juego a nivel tecnológico de una forma inteligente, flexible y con un impacto real en la sociedad.
 
 _<p align="center">
-[<img src="https://i.ibb.co/5KxBsVt/Mockup-Caixabank-2-Rookies-2024.png" width="85%">](https://caixabanktech.com/wp-content/uploads/sites/13/2024/01/CBK-CORPO-CAMBIOS_v20_reducido.mp4)
+[<img src="https://i.ibb.co/5KxBsVt/Mockup-Caixabank-2-Rookies-2024.png" width="85%">]([https://caixabanktech.com/wp-content/uploads/sites/13/2024/01/CBK-CORPO-CAMBIOS_v20_reducido.mp4](https://drive.google.com/file/d/1rrV17qjpBncq6ZjTq5-yGIrRY-DhNmrM/view?usp=sharing)
 
 _<p align="center">
 __¡Haz clic en la imagen para ver el vídeo!__
@@ -72,5 +72,5 @@ Pincha en el siguiente link y hagamos MATCH.
 <img src="[https://i.ibb.co/4sQzgkN/Boto-n-Caixabank-2-Rookies-2024.jpg](https://vacantes.promeritum.es/vacancies/65e1def2f851d55d9b1a3e95)" width="60%">
 
 _<p align="center">
-[<img src="https://i.ibb.co/4sQzgkN/Boto-n-Caixabank-2-Rookies-2024.jpg" width="50%">](https://vacantes.promeritum.es/vacancies/65e1def2f851d55d9b1a3e95)
+[<img src="https://i.ibb.co/4sQzgkN/Boto-n-Caixabank-2-Rookies-2024.jpg" width="50%">]([https://vacantes.promeritum.es/vacancies/65e1def2f851d55d9b1a3e95])
 </p>
