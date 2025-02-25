@@ -66,7 +66,7 @@ Disfruta de las ventajas de unirte a la Rookies League
 
 Ahora ya conoceis más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOCKIES LEAGUE y dejar tu huella digital?
 
-Pincha en el siguiente link y hagamos MATCH.
+Pincha en el siguiente link: (https://bit.ly/RookiesLeague2025) y hagamos MATCH.
 
 <p align="center">
 <img src="[https://i.ibb.co/4sQzgkN/Boto-n-Caixabank-2-Rookies-2024.jpg](https://vacantes.promeritum.es/vacancies/65e1def2f851d55d9b1a3e95)" width="60%">
