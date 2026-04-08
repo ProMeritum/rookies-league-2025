@@ -56,7 +56,7 @@ Disfruta de las ventajas de unirte a la Rookies League
 
 • **A tu manera_** Encuentra el equilibrio que necesitas entre trabajo y vida personal, hasta un 60% de trabajo en remoto.
 
-• **Descansa_** Podrás irte de vacaciones 27 días al año con la flexibilidad para escoger la mejor época del año para ti.
+• **Descansa_** Podrás irte de vacaciones 25 días al año con la flexibilidad para escoger la mejor época del año para ti.
 
 • **Be Tech, be healthy_** Se acabaron las excusas. Aprovéchate de nuestro programa de Wellbeing.
 
@@ -66,7 +66,7 @@ Disfruta de las ventajas de unirte a la Rookies League
 
 Ahora ya conoceis más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOKIES LEAGUE y dejar tu huella digital?
 
-Pincha en el siguiente link: https://bit.ly/RookiesLeague2025 y hagamos MATCH.
+Pincha en el siguiente link: bit.ly/RookiesLeague2026 y hagamos MATCH.
 
 
 -
